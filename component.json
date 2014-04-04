@@ -1,7 +1,10 @@
 {
   "name": "bower-xcharts",
   "version": "0.3.0",
-  "main": "./xcharts.js",
+  "main": [
+    "./xcharts.js",
+    "./xcharts.css"
+  ],
   "description": "A D3-based library for building custom charts and graphs.",
   "dependencies": {},
   "repository": {
